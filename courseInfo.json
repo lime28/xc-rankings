@@ -1,0 +1,22 @@
+{
+  "Crystal Springs": {
+    "2.13": {"elevation": 200},
+    "2.95": {"elevation": 257}
+  },
+  "Hidden Valley Park": {
+    "2": {"elevation": 200, "difficulty": 1.02}
+  },
+  "Johnson Springview Park": {
+    "2.49": {"distance": 2.43, "elevation": 47}
+  },
+  "North Monterey County HS": {
+    "3": {"distance": 2.94, "elevation": 120}
+  },
+  "Golden Gate Park": {
+    "2.88": {"distance": 2.82, "elevation": 150},
+    "2.19": {"distance": 2.12, "elevation": 130}
+  },
+  "Jesuit HS": {
+    "2.1": {"difficulty": 0.96}
+  }
+}
